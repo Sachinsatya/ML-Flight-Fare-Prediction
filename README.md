@@ -16,7 +16,7 @@ model which could effectively predict airline fares across various Indian Cities
 --------------------------------------------------------------------------------------------------------------------
 
 
-# Life Cycle of any DL Project! 
+# Life Cycle of any ML Project! 
 
 # 0. Problem Solving 
 # a) North Star Metrics (define success)
